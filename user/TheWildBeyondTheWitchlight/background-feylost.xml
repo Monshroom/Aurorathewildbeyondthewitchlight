@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Feylost</name>
+		<description>Feylost Background</description>
+		<author url="https://dnd.wizards.com/products/wild-beyond-witchlight">Wizards of the Coast</author>
+		<update version="0.0.5">
+			<file name="background-feylost.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/background-feylost.xml" />
+		</update>
+	</info>
+
+	<element name="Feylost" type="Background" source="The Wild Beyond The Witchlight" id="ID_BACKGROUND_FEYLOST">
+		<description>
+			<p>You grew up in the Feywild after dissapearing from your home plane as a child. Perhaps you were spirited away by a kindly Fey who thought you were destined for great things.
+				Perhaps you stumbled through a fey crossing by chance during a twilight stroll in the woods. Perhaps you were kidnapped by evil Fey but sscaped from their clutches. 
+				Whatever the manner of your disappearance, you gradually fell under the Feywild's spell and learned a little about the nature of the mercurial tricksters that dwell there.
+				When you finally returned to your home plane, you dit not come back unchanged. 
+				You are haunted by the fact that the Feywild —a mirror world hidden behind a mere twist of perception— is only a a hair's breadth away. Although your memories of the Feywild grow fainter with each passing day,
+				your heart swells with a mixture of fear and joy at the prospect of one day venturing back into the Plane of Faerie —your home awa from home</p>
+			<p class="indent"></p>
+			<ul class="unstyled">
+				<li><strong>Skill Proficiencies:</strong>Deception, Survival</li>
+				<li><strong>Languages:</strong>One of your choice of Elvish, Gnomish, Goblin, or Sylvan.</li>
+				<li><strong>Equipment:</strong>A musical instrument (one of your choice), a set of traveler's clothes, three trinkets (each determinded by rolling on the Feywild Trinkets Table), and a pouch containing 8 gp</li>
+			</ul>
+			<h5>Fey Mark</h5>
+			<p>You were transformed in some small way by your stay in the Feywild and gained a fey mark, determinded by rolling on the Fey Mark table. </p>
+			<table>
+				<thead>
+					<tr><td class="col-20">d8</td><td>Fey Mark</td></tr>
+				</thead>
+				<tr><td>1</td><td>Your eyes swirl with iridecent colors.</td></tr>
+				<tr><td>2</td><td>You have a sweet scent, like that of nectar or honey.</td></tr>
+				<tr><td>3</td><td>You have long whiskers like those of a cat.</td></tr>
+				<tr><td>4</td><td>Your ears are covered with soft tufts of fur.</td></tr>
+				<tr><td>5</td><td>Your skin sparkles in the moonlight.</td></tr>
+				<tr><td>6</td><td>Flowers either bloom or wilt (your choiche) in your presence.</td></tr>
+				<tr><td>7</td><td>Your hair is made of vines or brambles and grows back to normal length within 1 hour of being cut.</td></tr>
+				<tr><td>8</td><td>You have a tail like that of a dog or another animal.</td></tr>
+			</table>
+		<setters>
+			<set name="short">Deception, Survival</set>
+		</setters>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_DECEPTION" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
+			<select name="Fey Mark" type="List" optional="true">
+				<item id="1">Your eyes swirl with iridecent colors.</item>
+				<item id="2">You have a sweet scent, like that of nectar or honey.</item>
+				<item id="3">You have long whiskers like those of a cat.</item>
+				<item id="4">Your ears are covered with soft tufts of fur.</item>
+				<item id="5">Your skin sparkles in the moonlight.</item>
+				<item id="6">Flowers either bloom or wilt (your choiche) in your presence.</item>
+				<item id="7">Your hair is made of vines or brambles and grows back to normal length within 1 hour of being cut.</item>
+				<item id="8">You have a tail like that of a dog or another animal.</item>
+			</select>
+			</select>
+			</select>
+			<select name="Personality Trait" type="List" number="2">
+				<item id="1">I'm haunted by fey laughter that only I can hear, though I know it's just my mind playing tricks on me.</item>
+				<item id="2">Like a nomad, I can't settle down in one place for very long.</item>
+				<item id="3">Good music makes me weep like a baby.</item>
+				<item id="4">Wherever I go, I try to bring a little warmth and tranquilty of home with me.</item>
+				<item id="5">I have never lost my childlike sense of wonder.</item>
+				<item id="6">When I have a new idea, I get wildly excitedabout it until I come up with another, better idea.</item>
+				<item id="7">I live by my own set of weird and wonderful rules.</item>
+				<item id="8">I can't bring myself to trust most adults.</item>
+			</select>
+			<select name="Ideal" type="List">
+				<item id="1">Friendship. I never leave a friend behind. (Good)</item>
+				<item id="2">Empathy. No creature should be made to suffer. (Good)</item>
+				<item id="3">Wanderlust. I prefer to take the less traveled path. (Chaotic)</item>
+				<item id="4">Changeability. Change is good, which is why I live by an everchanging set of rules. (Chaotic)</item>
+				<item id="5">Honor. A deal is a deal, and I would never break one. (Lawful)</item>
+				<item id="6">Rule of Three. Everything in the multiverse happens in threes. I see the "rule of three" everywhere. (Lawful)</item>
+				<item id="7">Obsession. I won't let go of a grudge. (Evil)</item>
+				<item id="8">Greed. I will do whatever it takes to get what I want, regardless of the harm it might cause. (Evil)</item>
+			</select>
+			<select name="Bond" type="List">
+				<item id="1">I would never break my word</item>
+				<item id="2">I find magic in all its forms to be compelling. The more magical a place, the more I'm drawn to it.</item>
+				<item id="3">I do what I can to protect the natural world.</item>
+				<item id="4">A trusted friend is the most important thing in the multivers to me.</item>
+				<item id="5">I can't bring myself to harm a Fey creature, either because I consider myself one or because I fear the repercussions.</item>
+				<item id="6">The Witchlight Carnival feels like home to me.</item>
+				<item id="7">I'm drawn to the Feywild and long to return there, if only for a short time.</item>
+				<item id="8">I feel indebted to Mister Witch and Mister Light for giving me a home and a purpose.</item>
+			</select>
+			<select name="Flaw" type="List">
+				<item id="1">I lose track of time. My poor sense of time means I am always late.</item>
+				<item id="2">I think the whole multiverse is out to get me.</item>
+				<item id="3">I'm always operating under a thight timelinem and I'm obsessed with keeping everything on schedule.</item>
+				<item id="4">I'm a kleptomaniac who covets shiny, sparkling, treasure.</item>
+				<item id="5">I'm forgetful. Sometimes I can't remember even the simpelest things.</item>
+				<item id="6">I never give away anything for free and always expect something in return.</item>
+				<item id="7">I have many vices and tend to indulge them.</item>
+				<item id="8">I'm always changing my mind —well, almost always.</item>
+			</select>
+		</rules>
+	</element>
+	
+</elements>

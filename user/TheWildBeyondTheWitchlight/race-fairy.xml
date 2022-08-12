@@ -10,26 +10,69 @@
   </info>
   <element name="Fairy" type="Race" source="TheWildBeyondTheWitchlight" id="ID_WOTC_TWBTW_RACE_FAIRY">
     <description>
-      <p>The Feywild is hime to many fantastic peoples, including fairies. Fairies are wee folk, but not nearly as much so as their pixie and sprite friends. The first fairies spoke Elviish , Goblin, or Sylvan, and encounters with human visitors prompted many of them to learn Common as well. Infused with the magic of the Feywild, most fairies look like Small elves zi9th insectile wings, but each fairy has a special physical chracteristic that sets the fairy apart. For your fairy, roll on the fey Characteristics table or choose an option from it. You're also free to come up with your own characteristic if non of the suggestions below fit your character.</p>
+      <p>The Feywild is hime to many fantastic peoples, including fairies. Fairies are wee folk, but not nearly as much so as their pixie and sprite friends. The first fairies spoke Elviish , Goblin, or Sylvan, and encounters with human visitors prompted many of them to learn Common as well.</p>
       
       <h4>FAIRY TRAITS</h4>
-      <p>Your character shares the following traits with other gith.</p>
       <p class="indent"><b><i>Ability Score Increase. </i></b>Increase one score of your choice by 2 and one score by 1. Or three scores by 1</p>
       <p class="indent"><b><i>Age. </i></b>Fairies have a life span of about a century</p>
       <p class="indent"><b><i>Size. </i></b>You are Small</p>
       <p class="indent"><b><i>Speed. </i></b>Your base walking speed is 30 feet.</p>
-	  <p class="indent"><b><i>Fairy Magic. </i></b>You know the <i>Druidcraft</i> cantrip. Starting at 3rd level, you can cast the <i>Faery Fire</i> spell with this trait. Starting at 5th level, you can also cast <i>enlarge/reduce</i> with this trait. Once you cast <i>faery fire</i> or <i>enlarge/reduce</i> you can't cast this spell with it againt until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appriopriate level. Intelligence, Wisdom, or Charisma is your spell casting ability for these spells when you cast them with this trait(choose when you select this race).</p>
+	  <p class="indent"><b><i>Fairy Magic. </i></b>You know the <i>Druidcraft</i> cantrip. Starting at 3rd level, you can cast the <i>Faerie Fire</i> spell with this trait. Starting at 5th level, you can also cast <i>enlarge/reduce</i> with this trait. Once you cast <i>Faerie Fire</i> or <i>enlarge/reduce</i> you can't cast this spell with it againt until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appriopriate level. Intelligence, Wisdom, or Charisma is your spell casting ability for these spells when you cast them with this trait(choose when you select this race).</p>
       <p class="indent"><b><i>Language. </i></b>You can speak Common and one other language that is appropriate for your character</p>
 	  <p class="indent"><b><i>Flight. </i></b>Because of your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor.</p>
     </description>
+	<h5>FAIRY CHARACTERISTICS</h5>
+			<p> Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical chracteristic that sets the fairy apart. For your fairy, roll on the fey Characteristics table or choose an option from it. You're also free to come up with your own characteristic if non of the suggestions below fit your character.</p>
+			<table>
+				<thead>
+					<tr> <td>d8</td> <td>Characteristics</td> </tr>
+				</thead>
+				<tr> <td>1</td> <td>Your wings are like those of a bird.</td> </tr>
+				<tr> <td>2</td> <td>You have shimmering, multi-colored wings.</td> </tr>
+				<tr> <td>3</td> <td>You have exceptionally long ears.</td> </tr>
+				<tr> <td>4</td> <td>A glittering mist constantly surrounds you.</td> </tr>
+				<tr> <td>5</td> <td>You have a small spectral horn on your forehead, like alittle unicorn horn.</td> </tr>
+				<tr> <td>6</td> <td>Your legs are insectile.</td> </tr>
+				<tr> <td>7</td> <td>You smell like fresh brownies.</td> </tr>
+				<tr> <td>8</td> <td>A noticable, harmless chill surrounds you.</td> </tr>
+			</table>
+		
     <sheet display="false"/>
     <setters>
-      <set name="names" type="male">_</set>
-      <set name="names" type="female">_</set>
+      <set name="names" type="male">Radiance</set>
+      <set name="names" type="female">Gleam</set>
       <set name="names-format">{{name}}</set>
       <set name="height" modifier="2d12">_</set>
       <set name="weight" modifier="2d12">_</set>
-	  <set name="Fey Characteristics" modifier="1d8">Your wings are like those of a bird,You have shimmering, multicolored skin, You have exceptionally large ears, a glittering mist constantly surrounds you, You have a small spectral horn on your forehead, like a little unocorn horn, your legs are insectile, you smell like fresh brownies, a noticeable, harmless chill surrounds you</set>
     </setters>
+	<rules>
+	<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FAERIE_MAGIC"/>
+	<grant type="Racial Trait" id="ID_WOTC_PTWBTW_RACIAL_TRAIT_FAIRY_FLIGHT" />
+	</rules>
   </element>
+  <element name="Flight" type="Racial Trait" source="The Wild beyond The Witchlight" id="ID_WOTC_TWBTW_RACIAL_TRAIT_FAIRY_FLIGHT">
+		<description>
+			<p>You have a flying speed equal to your walking speed. To use this speed, you can’t be wearing medium or heavy armor.</p>
+		</description>
+		<sheet>
+			<description>You have a flying speed equal to your walking speed. To use this speed, you can’t be wearing medium or heavy armor.</description>
+		</sheet>
+		<rules>
+			<stat name="innate speed:fly" value="30" bonus="base" equipped="![armor:medium],![armor:heavy]" />
+		</rules>
+	</element>
+  <element name="Fairy Magic" type="Racial Trait" source="The Wild Beyond The Witchlight" id="ID_RACIAL_TRAIT_FAIRY_MAGIC">
+		<description>
+		<p>You know the <i>Druidcraft</i> cantrip. Starting at 3rd level, you can cast the <i>Faerie Fire</i> spell with this trait. Starting at 5th level, you can also cast <i>enlarge/reduce</i> with this trait. Once you cast <i>Faerie fire</i> or <i>enlarge/reduce</i> you can't cast this spell with it againt until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appriopriate level. Intelligence, Wisdom, or Charisma is your spell casting ability for these spells when you cast them with this trait(choose when you select this race).</p>
+		</description>
+		<sheet>
+			<description>You know the Druidcraft cantrip.</description>
+			<description level="3">You know the Druidcraft cantrip.You can also cast the Faerie Fire spell(1/long rest).</description>
+			<description level="5">You know the Druidcraft cantrip.You can also cast the Faerie Fire spell(1/long rest). You can also cast the enlarge/reduce spell(1/long rest). </description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_DRUIDCRAFT" />
+			<grant type="Spell" id="ID_PHB_SPELL_FAERIE_FIRE" level="3"/>
+			<grant type="Spell" id="ID_PHB_ENLARGE_REDUCE" level="5"/>
+		</rules>
 </elements>

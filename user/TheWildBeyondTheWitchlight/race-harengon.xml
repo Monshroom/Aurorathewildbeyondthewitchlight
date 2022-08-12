@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <info>
+    <name>Harengon</name>
+    <description>The Harengon Race from The Wild Beyond The Witchlight</description>
+    <author url="https://dnd.wizards.com/products/wild-beyond-witchlight">Wizards of the Coast</author>
+    <update version="0.0.5">
+      <file name="race-harengon.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/race-harengon.xml"/>
+    </update>
+  </info>
+  <element name="Harengon" type="Race" source="TheWildBeyondTheWitchlight" id="ID_WOTC_TWBTW_RACE_HARENGON">
+    <description>
+      <p>Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds , bringing the fey realm's exuberance with them and learning new languages as they went.
+	  Hargengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring.
+	  Harengons are blessed with a little fey luckm and they often find themselves a few fortunate feet away from dangers during adventures</p>
+      
+      <h4>HARENGON TRAITS</h4>
+      <p class="indent"><b><i>Ability Score Increase. </i></b>Increase one score of your choice by 2 and one score by 1. Or three scores by 1</p>
+      <p class="indent"><b><i>Age. </i></b>Fairies have a life span of about a century</p>
+      <p class="indent"><b><i>Size. </i></b>You are Small or Medium. You choose the size when you select this race</p>
+      <p class="indent"><b><i>Speed. </i></b>Your base walking speed is 30 feet.</p>
+      <p class="indent"><b><i>Language. </i></b>You can speak Common and one other language that is appropriate for your character</p>
+	  <p class="indent"><b><i>Leporine Senses. </i></b><p>When you fail a dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.</p>
+	  <p class="indent"><b><i>Rabbit Hop. </i></b><p>As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, you can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain expended uses when you finish a long rest.</p>
+	</description>
+    <sheet display="false"/>
+    <setters>
+      <set name="names" type="male">_</set>
+      <set name="names" type="female">_</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d12">_</set>
+      <set name="weight" modifier="2d12">_</set>
+    </setters>
+  </element>
+</elements>

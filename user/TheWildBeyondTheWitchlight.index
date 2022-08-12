@@ -9,13 +9,15 @@
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" />
+		<file name="source.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/source.xml" />
 		
 		<!-- races -->
-		<file name="race-fairy.xml"/>
-
-		<!-- backgrounds -->		
-	
+		<file name="race-fairy.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/race-fairy.xml"/>
+		<file name="race-harengon.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/race-harengon.xml"/>
+		<!-- backgrounds -->	
+		<file name="background-feylost.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/background-feylost.xml" />
+		<file name="background-feywild-visitor.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/background-feywild-visitor.xml" />
+		<file name="background-witchlight-hand.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/background-witchlight-hand.xml" />
 		<!-- items -->
 
 
