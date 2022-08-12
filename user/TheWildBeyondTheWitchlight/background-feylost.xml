@@ -10,7 +10,7 @@
 	</info>
 
 	<element name="Feylost" type="Background" source="The Wild Beyond The Witchlight" id="ID_BACKGROUND_FEYLOST">
-		<description>
+			<description>
 			<p>You grew up in the Feywild after dissapearing from your home plane as a child. Perhaps you were spirited away by a kindly Fey who thought you were destined for great things.
 				Perhaps you stumbled through a fey crossing by chance during a twilight stroll in the woods. Perhaps you were kidnapped by evil Fey but sscaped from their clutches. 
 				Whatever the manner of your disappearance, you gradually fell under the Feywild's spell and learned a little about the nature of the mercurial tricksters that dwell there.
@@ -23,6 +23,7 @@
 				<li><strong>Languages:</strong>One of your choice of Elvish, Gnomish, Goblin, or Sylvan.</li>
 				<li><strong>Equipment:</strong>A musical instrument (one of your choice), a set of traveler's clothes, three trinkets (each determinded by rolling on the Feywild Trinkets Table), and a pouch containing 8 gp</li>
 			</ul>
+			</description>
 			<h5>Fey Mark</h5>
 			<p>You were transformed in some small way by your stay in the Feywild and gained a fey mark, determinded by rolling on the Fey Mark table. </p>
 			<table>
