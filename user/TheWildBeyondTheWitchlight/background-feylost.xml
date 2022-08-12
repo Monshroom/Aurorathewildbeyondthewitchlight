@@ -56,8 +56,6 @@
 				<item id="8">You have a tail like that of a dog or another animal.</item>
 				</select>
 				</rules>
-			</select>
-			</select>
 			<select name="Personality Trait" type="List" number="2">
 				<item id="1">I'm haunted by fey laughter that only I can hear, though I know it's just my mind playing tricks on me.</item>
 				<item id="2">Like a nomad, I can't settle down in one place for very long.</item>
