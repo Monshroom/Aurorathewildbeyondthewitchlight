@@ -5,7 +5,7 @@
     <description>The Fairy Race from The Wild Beyond The Witchlight</description>
     <author url="https://dnd.wizards.com/products/wild-beyond-witchlight">Wizards of the Coast</author>
     <update version="0.0.5">
-      <file name="race-fairy.xml" />
+      <file name="race-fairy.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/race-fairy.xml"/>
     </update>
   </info>
   <element name="Fairy" type="Race" source="TheWildBeyondTheWitchlight" id="ID_WOTC_TWBTW_RACE_FAIRY">

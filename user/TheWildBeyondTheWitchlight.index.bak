@@ -5,7 +5,7 @@
 		<description>A wickedly whimsical adventure for the world’s greatest roleplaying game.</description>
 		<author url="https://dnd.wizards.com/products/wild-beyond-witchlight">Wizards of the Coast</author>
 		<update version="0.2">
-			<file name="TheWildBeyondTheWitchlight.index" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight.index"/>
+			<file name="TheWildBeyondTheWitchlight.index" />
 		</update>
 	</info>
 	<files>	

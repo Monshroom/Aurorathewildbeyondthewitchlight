@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="sources.xml" />
+			<file name="sources.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/source.xml" />
 		</update>
 	</info>
 	<element name="The Wild Beyond The WitchLight" type="Source" source="user" id="ID_WOTC_SOURCE_THEWILDBEYONDTHEWITCHLIGHT">
