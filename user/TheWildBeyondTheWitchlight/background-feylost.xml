@@ -17,7 +17,7 @@
 				When you finally returned to your home plane, you dit not come back unchanged. 
 				You are haunted by the fact that the Feywild —a mirror world hidden behind a mere twist of perception— is only a a hair's breadth away. Although your memories of the Feywild grow fainter with each passing day,
 				your heart swells with a mixture of fear and joy at the prospect of one day venturing back into the Plane of Faerie —your home awa from home</p>
-			<p class="indent"></p>
+
 			<ul class="unstyled">
 				<li><strong>Skill Proficiencies:</strong>Deception, Survival</li>
 				<li><strong>Languages:</strong>One of your choice of Elvish, Gnomish, Goblin, or Sylvan.</li>
@@ -53,6 +53,7 @@
 				<item id="6">Flowers either bloom or wilt (your choiche) in your presence.</item>
 				<item id="7">Your hair is made of vines or brambles and grows back to normal length within 1 hour of being cut.</item>
 				<item id="8">You have a tail like that of a dog or another animal.</item>
+				</rules>
 			</select>
 			</select>
 			</select>
@@ -96,7 +97,7 @@
 				<item id="7">I have many vices and tend to indulge them.</item>
 				<item id="8">I'm always changing my mind —well, almost always.</item>
 			</select>
-		</rules>
+		
 	</element>
 	
 </elements>
