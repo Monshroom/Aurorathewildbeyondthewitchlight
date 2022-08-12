@@ -53,8 +53,8 @@
 				<item id="6">Flowers either bloom or wilt (your choiche) in your presence.</item>
 				<item id="7">Your hair is made of vines or brambles and grows back to normal length within 1 hour of being cut.</item>
 				<item id="8">You have a tail like that of a dog or another animal.</item>
+				</select>
 				</rules>
-			</select>
 			</select>
 			</select>
 			<select name="Personality Trait" type="List" number="2">
