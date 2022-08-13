@@ -517,7 +517,6 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  </element>
    <element name="Wooden pan flute that attracts harmless local fauna when played" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PAN_FLUTE">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
@@ -542,14 +541,12 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  </element>
    <element name="Wooden apple painted blue" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_APPLE">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
-  </element>
   </element>
    <element name="Tuning fork that sounds the tone for the F key" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TUNING_FORK">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
@@ -558,7 +555,6 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  </element>
    <element name="Nunchaku sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_NUNCHAKU">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
@@ -566,14 +562,12 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  </element>
    <element name="Copper coin with a smiling satyr's face on one side and a satyr's skull on the other" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_COIN">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
-  </element>
   </element>
    <element name="Severed chicken's foot attached to a leather cord" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CHICKEN_FOOT">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
