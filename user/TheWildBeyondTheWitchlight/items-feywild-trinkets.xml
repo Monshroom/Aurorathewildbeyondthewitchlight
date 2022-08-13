@@ -524,15 +524,12 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  
-  </element>
    <element name="Silvered pinecone" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_PINECONE">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
-  </element>
   </element>
    <element name="Flask of spectral glowworms that change color to reflect the mood of the flask's holder" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FLASK">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
