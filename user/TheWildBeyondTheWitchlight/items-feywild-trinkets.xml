@@ -706,42 +706,42 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="Weak magnetic wand" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WAND">
+  <element name="Weak magnetic wand" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WAND">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="100-sided die the size of a plum, cut from coal" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DIE">
+  <element name="100-sided die the size of a plum, cut from coal" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DIE">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="Glass slipper, missing its mate" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SLIPPER">
+  <element name="Glass slipper, missing its mate" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SLIPPER">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="Tiny dreamcatcher" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DREAMCATCHER">
+  <element name="Tiny dreamcatcher" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DREAMCATCHER">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="Barbell sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BARBELL">
+  <element name="Barbell sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BARBELL">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
       <set name="type">Trinket</set>
     </setters>
   </element>
-  element name="Music box that plays a sprightly tune you remember from your childhood" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MUSIC_BOX">
+  <element name="Music box that plays a sprightly tune you remember from your childhood" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MUSIC_BOX">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
