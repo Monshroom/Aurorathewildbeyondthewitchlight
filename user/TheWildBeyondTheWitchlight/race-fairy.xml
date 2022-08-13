@@ -75,4 +75,5 @@
 			<grant type="Spell" id="ID_PHB_SPELL_FAERIE_FIRE" level="3"/>
 			<grant type="Spell" id="ID_PHB_ENLARGE_REDUCE" level="5"/>
 		</rules>
+		</element>
 </elements>
