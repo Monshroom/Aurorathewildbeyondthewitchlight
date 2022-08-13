@@ -468,7 +468,7 @@
       <set name="type">Trinket</set>
     </setters>
   </element>
-   <element name="Empty bag labeled "Candy"" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_BAG">
+   <element name="Empty bag labeled 'Candy'" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_BAG">
     <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
     <setters>
       <set name="category">Feywild Trinket</set>
