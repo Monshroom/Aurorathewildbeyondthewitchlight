@@ -17,6 +17,7 @@
 				remain mysterious to you even afer all these years. Maybe you joined the carnival to escape a dismal life at home, or maybe you were enchanted by the idea of visiting new places or 
 				the dream of becoming one of the carnival's star attractions. Now that you're older, carnival life has lost some of its appeal. The daily routine has grown tedious, the cyclical nature of thew carnival's journey monotonous.
 				The carnival no longer fills your heart with a sense of wonder. Perhaps greater adventures await you beyond the carnival gates.</p>
+			</description>
 			<p class="indent"></p>
 			<ul class="unstyled">
 				<li><strong>Skill Proficiencies:</strong>Performance, Sleight of Hand</li>
@@ -57,7 +58,7 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SLEIGHT_OF_HAND" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_DISGUISE_KIT" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_MUSICAL_INSTRUMENT" />
-			
+			</rules>
 			<select name="Personality Trait" type="List" number="2">
 				<item id="1">I'm haunted by fey laughter that only I can hear, though I know it's just my mind playing tricks on me.</item>
 				<item id="2">Like a nomad, I can't settle down in one place for very long.</item>
@@ -98,7 +99,7 @@
 				<item id="7">I have many vices and tend to indulge them.</item>
 				<item id="8">I'm always changing my mind —well, almost always.</item>
 			</select>
-		</rules>
+		
 	</element>
 	
 </elements>
