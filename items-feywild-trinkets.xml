@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Feywild Trinkets</name>
+	    <author url="https://dnd.wizards.com/products/wild-beyond-witchlight">Wizards of the Coast</author>
+		<update version="0.0.5">
+			 <file name="items-feywild-trinkets.xml" url="https://github.com/Monshroom/Aurorathewildbeyondthewitchlight/blob/main/user/TheWildBeyondTheWitchlight/items-feywild-trinkets.xml"/>
+		</update>
+	</info>
+  
+  
+
+  <element name="Cookie cutter shaped like a unicorn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_COOKIECUTTER">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Two yew rings linked together" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_YEW_RINGS">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Silver hand mirror with a nymph-shaped handle" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_HAND_MIRROR">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Painted wooden key whose teeth change configuration every day at dawn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WOODEN_KEY">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+ <element name="Delicate silver cameo with pictures of twin children opposite one another" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD__TRINKET_ILVER_CAMEO">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Golden pendant charm shaped like a leprechaun" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_GOLDEN_PENDANT">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Tiny wooden box containing a croquet set sized for pixies or sprites" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TINY_BOX">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Tiny pair of sharp, iron scissors" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_IRON_SCISSORS">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Chess piece shaped like a dancing satyr wearing a bishop's hat and clutching a gnarled staff" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CHESS_PIECE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Saltshaker shaped like a wizard's tower" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SALTSHAKER">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Crystal orb that allows an elf who holds it to sleep" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CRYSTAL_ORB">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Pendant that shows the phases of the moon" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MOON_PENDANT">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Large iron fingernail" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_IRON_FINGERNAIL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Tiny electrum whistle that only Fey cna hear" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_ELECTRUM_WHISTLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Wooden jigsaw puzzle piece as big as a saucer, with a painted image of a jug on it" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_JIGSAW_PIECE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   
+   <element name="Spool of glistening silver thread" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SPOOL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Sheet of music that goblins find upsetting when they hear it played or sung" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SHEET_MUSIC">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Rotten ogre's tooth with the Elvish glyph for 'moon' etched into it " type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_OGRE_TOOTH">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  
+   <element name="Vitrified eye of a displacer beast" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_VITRIFIED_EYE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Tiny duskwood coffin containing ashes of a troll" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DUSKWOOD_COFFIN">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Old invitation to a banquet in the Summer Court, written in ink on vellum in Sylvan" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BANQUET_INVITATION">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Gossamer shawl that glows faintly in moonlight" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_GOSSAMER_SHAWL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Ball-and-cup toy that plays a short, victorious jingle whenever the ball lands in the cup" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BALLANDCUP">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Sprite's skull covered in ink fingerprints" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SPRITE_SKULL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  
+   <element name="Silver fork with the outer tines bent sideways" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SILVER_FORK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  
+  <element name="A soot-stained sock in which a nugget of coal magically appears each day at dawn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SOCK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  
+  
+  <element name="Tiny wooden stool (sized for a pixie or sprite) that gives splinters to those who hold it" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_STOOL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  	 <element name="Toy unicorn made of wood, painted with bright colors" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TOY_UNICORN">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   
+   <element name="Pixie plushie that sings when you squeeze it" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PXIE_PLUSHIE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="1-inch-square painting of a sleeping elf" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PAINTING">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Thimble that helps you daydream when worn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_THIMBLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Pumpkin cupcake that magically regenerates itself in its paper cup each day at dawn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PUMPKIN_CUPCAKE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  <element name="Fake Three-Dragon Ante card depicting a faerie dragon" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FAKE_ANTE_CARD">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+ 
+ <element name="Teacup made from a varnished mushroom cap that magically keeps its liquid contents lukewarm" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TEACUP">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+ 
+ <element name="Rock that floats and is small enough to hide in your closed fist" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_ROCK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+
+ <element name="Tiny bottle filled with rainwater collected from the Feywild" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BOTTLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+
+	 <element name="Opalescent conch shell that laughs when you hold it to your ear" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SHELL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   
+   <element name="Vial of viscous liquid labeled 'Fomorian spit. Do not drink!'" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_VIAL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="Wax candle that roars and crackles like a bonfire while lit" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CANDLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+
+   <element name="Potted daffodil that sways when near a source of music" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DAFFODIL">
+      <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+   <element name="8-ounce, glass wine bottle that magically reassembles itself 1 minute after being broken" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WINE_BOTTLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny wooden sylph figurehead from a model ship" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FIGUREHEAD">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny pumpkin-shaped cauldron carved out of bog oak" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CAULDRON">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Bar of soap that smells like something memorable from your childhood" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SOAP">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Piece of orange parchment folded to look like a knight astride a unicorn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PARCHMENT">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tinted glasses so dark that they can't be seen through" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_GLASSES">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="8-inch-long glass ant figurine" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FIGURINE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Piece of parchment bearing a child's drawing of an oni" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CHILD_DRAWING">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny hourglass without sand in it" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_HOURGLASS">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Empty vial with corked ends at the top and bottom" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_EMPTY_VIAL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Pair of green leprechaun boots tied together by their laces" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_LEPRECHAUN_BOOTS">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Smoking pipe made from a tree root" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SMOKING_PIPE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Red cap that droops down to one's shoulders when worn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_RED_CAP">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Mask that helps you remember your dreams if you wear it while you sleep" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MASK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Notebook that shows what's written on it only when held upside down" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_NOTEBOOK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden top with four sides, each bearing the image of child enjoying a different season" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TOP">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny beehive wig made for sprites or pixies" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WIG">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden mouse figurine that squeaks when held" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MOUSE_FIGURINE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Stuffed oni doll with a creepy smile and one missing eye" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_ONI_DOLL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Empty bag labeled 'Candy'" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_BAG">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tinted glass monocle that makes things look green" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MONOCLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Black executioner's hood sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_HOOD">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Piano key carved from a satyr's horn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PIANO_KEY">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny wooden lute with cat hairs for strings" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_LUTE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Iron needle with an eye that refuses to let thread pass through it" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TRINKET_NEEDLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny sundial that casts a shadow only in moonlight" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SUNDIAL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden pan flute that attracts harmless local fauna when played" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PAN_FLUTE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  
+  </element>
+   <element name="Silvered pinecone" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_PINECONE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  </element>
+   <element name="Flask of spectral glowworms that change color to reflect the mood of the flask's holder" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FLASK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden apple painted blue" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_APPLE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tuning fork that sounds the tone for the F key" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TUNING_FORK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Nunchaku sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_NUNCHAKU">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Copper coin with a smiling satyr's face on one side and a satyr's skull on the other" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_COIN">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Severed chicken's foot attached to a leather cord" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CHICKEN_FOOT">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Collection of baby teeth in a tiny wooden box" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BABY_TEETH">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Pinwheel whirligig that spins even when there's no wind" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PINWHEEL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Child's parasol covered in moss and leaves" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PARASOL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden magnifying glass missing its lens" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MAGNIFYING_GLASS">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Glossy mushroom with a red, bell-shaped cap that jingles when shook" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MUSHROOM">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Pouch of seeds that smell like home" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_POUCH">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Petrified robin's egg" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_EGG">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Wooden spoon with a hole in the center" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SPOON">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Paper wasp nest in a jar" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PAPER_WASP_NEST">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Sprig of rosemary wrapped with ribbon at one end" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_ROSEMARY">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny, unfurnished dollhouse sized for a pixie child" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DOLLHOUSE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Paintbrush made entirely of ceramic—even the bristles" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_PAINTBRUSH">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Candlestick whose candlelight looks like a tiny, dancing fairy made of fire" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_CANDLESTICK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Spectacle frames in the shape of butterfly wings" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SPECTACLE_FRAMES">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Set of false wooden teeth" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_FALSE_WOODEN_TEETH">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tiny book of fairytales" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_TINY_BOOK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Rucksack in which one potato magically appears each day at dawn" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_RUCKSACK">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Pixie's winter jacket lined with fox fur" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WINTER_JACKET">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+   <element name="Tasseled wine charm shaped like a sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WINE_CHARM">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="Weak magnetic wand" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_WAND">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="100-sided die the size of a plum, cut from coal" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DIE">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="Glass slipper, missing its mate" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_SLIPPER">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="Tiny dreamcatcher" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_DREAMCATCHER">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="Barbell sized for a pixie or sprite" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_BARBELL">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+  element name="Music box that plays a sprightly tune you remember from your childhood" type="Item" source="The Wild Beyond The Witchlight" id="ID_TWBTW_FEYWILD_TRINKET_MUSIC_BOX">
+    <supports>ID_INTERNAL_TOOL_FEYWILD_TRINKET</supports>
+    <setters>
+      <set name="category">Feywild Trinket</set>
+      <set name="type">Trinket</set>
+    </setters>
+  </element>
+    
+</elements>
