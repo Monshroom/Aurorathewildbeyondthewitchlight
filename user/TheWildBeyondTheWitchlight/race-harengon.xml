@@ -20,8 +20,8 @@
       <p class="indent"><b><i>Size. </i></b>You are Small or Medium. You choose the size when you select this race</p>
       <p class="indent"><b><i>Speed. </i></b>Your base walking speed is 30 feet.</p>
       <p class="indent"><b><i>Language. </i></b>You can speak Common and one other language that is appropriate for your character</p>
-	  <p class="indent"><b><i>Leporine Senses. </i></b><p>When you fail a dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.</p>
-	  <p class="indent"><b><i>Rabbit Hop. </i></b><p>As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, you can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain expended uses when you finish a long rest.</p>
+	  <p class="indent"><b><i>Leporine Senses. </i></b>When you fail a dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.</p>
+	  <p class="indent"><b><i>Rabbit Hop. </i></b>As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, you can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain expended uses when you finish a long rest.</p>
 	</description>
     <sheet display="false"/>
     <setters>
