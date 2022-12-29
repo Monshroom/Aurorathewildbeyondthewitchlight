@@ -47,7 +47,7 @@
     </setters>
 	<rules>
 	<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FAIRY_MAGIC"/>
-	<grant type="Racial Trait" id="ID_WOTC_PTWBTW_RACIAL_TRAIT_FAIRY_FLIGHT" />
+	<grant type="Racial Trait" id="ID_WOTC_TWBTW_RACIAL_TRAIT_FAIRY_FLIGHT" />
 	</rules>
   </element>
   <element name="Flight" type="Racial Trait" source="The Wild beyond The Witchlight" id="ID_WOTC_TWBTW_RACIAL_TRAIT_FAIRY_FLIGHT">
