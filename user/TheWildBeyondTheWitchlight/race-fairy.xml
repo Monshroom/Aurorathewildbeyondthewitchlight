@@ -46,7 +46,7 @@
       <set name="weight" modifier="2d12">_</set>
     </setters>
 	<rules>
-	<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FAERIE_MAGIC"/>
+	<grant type="Racial Trait" id="ID_RACIAL_TRAIT_FAIRY_MAGIC"/>
 	<grant type="Racial Trait" id="ID_WOTC_PTWBTW_RACIAL_TRAIT_FAIRY_FLIGHT" />
 	</rules>
   </element>
